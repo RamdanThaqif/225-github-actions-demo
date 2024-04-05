@@ -11,4 +11,4 @@ try {
 } catch(err) {}
 
 
-exports.dayOfTheWeek = dayOfTheWeek;
+exports.dayOfTheWeek = dayOfTheWeek;:S
